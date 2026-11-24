@@ -1,4 +1,4 @@
-# Multi-disease prediction from colour fundus photographs
+# RetiProteomics
 
 Test code for a fundus-image model that predicts the prior (baseline) and
 incident (follow-up) status of 32 diseases. The image encoder is the vision
