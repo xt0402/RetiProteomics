@@ -1,0 +1,14 @@
+# never commit data, model weights or results
+*.csv
+*.pth
+*.pt
+*.png
+*.jpg
+*.jpeg
+*.tar.gz
+*.zip
+/results/
+/data/
+__pycache__/
+*.pyc
+.DS_Store
